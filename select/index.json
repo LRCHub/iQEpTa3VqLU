@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Daddy Cool",
+  "base_artist": "Boney M.",
+  "createdAt": "2025-12-14T21:21:44.223337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/01_Daddy_Cool_Placebo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/02_Daddy_Cool_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/03_Daddy_Cool_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/04_Daddy_Cool_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daddy Cool (Jay Frog & Amfree Remix)",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/05_Daddy_Cool_(Jay_Frog_&_Amfree_Remix)_Boney_M..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daddy Cool (Nick Raider Radio-Mix)",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/06_Daddy_Cool_(Nick_Raider_Radio-Mix)_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daddy Cool (Nick Raider Radio-Mix)",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/07_Daddy_Cool_(Nick_Raider_Radio-Mix)_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daddy Cool '99 (feat. Mobi T.)",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/08_Daddy_Cool_'99_(feat._Mobi_T.)_Boney_M..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "LIZOT feat. Boney M.",
+      "has_synced": true,
+      "path": "select/09_Daddy_Cool_LIZOT_feat._Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Lizot",
+      "has_synced": true,
+      "path": "select/10_Daddy_Cool_Lizot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Vinylshakerz",
+      "has_synced": false,
+      "path": "select/11_Daddy_Cool_Vinylshakerz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/12_Daddy_Cool_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daddy Cool (Boney M)",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/13_Daddy_Cool_(Boney_M)_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "LIZOT x Boney M.",
+      "has_synced": true,
+      "path": "select/14_Daddy_Cool_LIZOT_x_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Daddy Cool",
+      "artist": "The Rays",
+      "has_synced": false,
+      "path": "select/15_Daddy_Cool_The_Rays.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daddy Cool",
+      "artist": "Boney M.",
+      "has_synced": false,
+      "path": "select/pl_01_Daddy_Cool_Boney_M..txt"
+    }
+  ]
+}
