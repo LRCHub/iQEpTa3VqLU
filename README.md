@@ -1,0 +1,20 @@
+# Boney M. – Daddy Cool
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+She's crazy like a fool
+What about Daddy Cool
+I'm crazy like a fool
+What about Daddy Cool
+Daddy, Daddy Cool x4
+[Repeat: x2]
+She's crazy like her daddy
+She
+She Loves her daddy
+She's crazy like a fool
+What about Daddy Cool
+I'm crazy like a fool
+What about Daddy Cool
+Daddy, Daddy Cool [Repeat: x4]
+```
